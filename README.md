@@ -8,7 +8,7 @@ Frontend developer with an emphasis on interactive web experiences. Experience i
 - **Frameworks/Libraries:** React, TypeScript, Tailwind, Three.js
 
 ## 🏆 Achievements
-- **3x At Our Best Accerelate (VMware)** - Recognized for outstanding contributions to web applications.
+- **3x At Our Best Accelerate (VMware)** - Recognized for outstanding contributions to web applications.
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [https://www.linkedin.com/in/jesse-e-martinez/](https://www.linkedin.com/in/jesse-e-martinez/)

@@ -1,7 +1,7 @@
 # Hello, I'm Jesse! 👋
 
 ## 🚀 About Me
-Frontend developer with an emphasis on interactive web experiences. Experience in development and UI/UX design for brand & marketing teams.
+Frontend developer with an emphasis on interactive web experiences.
 
 ## 🛠️ Skills
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
